@@ -1,22 +1,22 @@
 # Python API Call
 
-# if no `venv` folder, install by command:
+## If no `venv` folder, install by command:
 python3 -m venv venv
 
-# then activate
+## Then activate
 source venv/bin/activate
 
-# check packages installed
+## Check packages installed
 pip list
 
-# upgrade pip
+## Upgrade pip
 pip install --upgrade pip
 
-# install modules
+## Install modules
 pip install -r requirements.txt
 
-# check installed packaged
+## Check installed packaged
 pip list
 
-# select kernel
+## Select kernel
 venv
